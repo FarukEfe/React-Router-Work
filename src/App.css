@@ -1,0 +1,8 @@
+body {
+  display: grid;
+  place-items: center;
+}
+
+#page-container{
+  margin: 50% auto;
+}

@@ -1,0 +1,21 @@
+.nav-link{
+    width: 150px;
+    height: 75px;
+    font-size: 18px;
+    font-family: sans-serif;
+    background: none;
+    color: darkorange;
+    border: none;
+    border-bottom: solid rgba(0, 0, 0, 0);
+    margin: 15px;
+    padding: 7.5px;
+    transition: .5s ease-in-out;
+}
+
+.nav-link.active{
+    border-bottom-color: darkorange;
+}
+
+a{
+    text-decoration: none !important;
+}
