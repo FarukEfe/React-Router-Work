@@ -1,4 +1,4 @@
-
+# Create the react.js app by typing `npx create-react-app fileName` and then replace the src file with the one here.
 
 # Getting Started with Create React App
 
